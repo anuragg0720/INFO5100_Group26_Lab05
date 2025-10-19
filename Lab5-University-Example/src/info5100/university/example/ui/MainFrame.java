@@ -1,6 +1,5 @@
 package info5100.university.example.ui;
 
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.List;
